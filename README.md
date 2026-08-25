@@ -42,4 +42,4 @@ Feel free to reach out if you'd like to discuss backend development, Go, or scal
 
 ---
 
-*Committed to writing code that matters.*
+
